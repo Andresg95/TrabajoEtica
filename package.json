@@ -1,0 +1,24 @@
+{
+  "name": "TrabajoEtica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andresg95/TrabajoEtica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andresg95/TrabajoEtica/issues"
+  },
+  "homepage": "https://github.com/Andresg95/TrabajoEtica#readme",
+  "dependencies": {
+    "forge": "^2.3.0",
+    "node-forge": "^0.8.4"
+  }
+}
