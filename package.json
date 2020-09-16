@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Andresg95/TrabajoEtica#readme",
   "dependencies": {
     "forge": "^2.3.0",
-    "node-forge": "^0.8.4"
+    "node-forge": "^0.10.0"
   }
 }
